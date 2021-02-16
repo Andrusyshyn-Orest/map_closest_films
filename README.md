@@ -23,36 +23,9 @@ Check out map in Map_1.html
 
 ## Structure of Map_1.html  
 
-<pre><!DOCTYPE html>
-<head>  
-    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />  
+in `<head>` tag we have `<style>`, `<script>`, `<link>` tags which
+are connected to a style of a page. Next we have `<body>` with `<div>` in it.
+Next we have `<script>` tag that responds for building map.
 
-        <script>  
-
-        </script>  
-
-    <style></style>  
-    <style></style>  
-    <script></script>  
-    <script></script>  
-    <script></script>  
-    <script></script>  
-    <link/>  
-    <link/>  
-    <link/>  
-    <link/>  
-    <link/>  
-    <link/>  
-
-            <meta/>  
-            <style>  
-            </style>  
-</head>  
-<body>  
-
-            <div></div>  
-
-</body>  
-<script>  
-</script></pre>
-
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
